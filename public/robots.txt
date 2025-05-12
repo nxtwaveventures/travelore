@@ -1,0 +1,9 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://travelore.vercel.app/sitemap.xml
+
+# Disallow API routes
+Disallow: /api/* 
